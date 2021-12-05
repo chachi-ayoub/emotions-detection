@@ -1,4 +1,4 @@
 # emotions-detection
 real time emotions detection with opencv &amp; deepface
 # requirements 
-deepface / opencv / matplotlib
+python / jupyter notebook / deepface / opencv / matplotlib
